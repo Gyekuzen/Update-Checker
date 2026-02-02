@@ -1,5 +1,5 @@
 {
-  "latestCode": "13",
+  "latestCode": 13,
   "latestName": "V1.2",
   "mandatory": false,
   "changelog": "• Fixed particle Background Causing Lag\n• Fixed ESP Lag when it detects enemy",
